@@ -1,0 +1,137 @@
+.picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+h1 {
+  font-family: Fat Cat;
+  font-size: 5rem;
+  margin:0px 0 70px 0;
+
+}
+
+#skinnyDip {
+  font-size: 1rem;
+  font-family: TheSkinny;
+}
+#app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  object-fit: cover;
+}
+
+.outerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  flex-wrap: wrap;
+  object-fit: cover;
+}
+
+.img__wrap {
+  position: relative;
+  height: 200px;
+  width: 257px;
+}
+
+.img__wrap:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.img__description {
+  color: white;
+  font-size: 35px;
+  font-family: Fat Cat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: peachpuff;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: 0.5s ease;
+  opacity: 0.9;
+}
+
+.instructions {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.mainPic {
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  box-shadow: 10px 10px 5px grey;
+  border:1px solid #021a40;
+
+}
+
+.recipeName {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+font-family: Fat Cat;
+font-size: 3em;
+text-align: center;
+}
+
+.button {
+  color: rgba(255, 255, 255, 0.8);
+  background: linear-gradient(rgb(252, 164, 149), rgb(245, 245, 115));
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+ }
+
+ .button:hover {
+  color: rgba(247, 141, 2, 0.945);
+  box-shadow: 0 5px 15px peachpuff;
+ }
+
+ #addRecipeImage {
+   height: 70px;
+   width: 70px;
+ }
+
+ #addRecipeButton {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+
+ }
+
+ #addRecipeButton:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+ }
