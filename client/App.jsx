@@ -8,24 +8,33 @@ class App extends Component {
       // state here
       recipes: [],
       recipe_selected: false,
-      current_recipe: {}
+      current_recipe: {},
+      recipeById: {},
     };
     this.renderRecipes = this.renderRecipes.bind(this);
     this.handleClick = this.handleClick.bind(this);
     this.goBack = this.goBack.bind(this);
+    this.updateRecipe = this.updateRecipe.bind(this);
   }
 
   // make a GET request to API for all recipes
-  componentDidMount() {
-    fetch("/all")
-      .then(res => res.json())
-      .then(recipes => {
-        if (!Array.isArray(recipes)) recipes = [];
-        return this.setState({
-          recipes: recipes
-        });
-      });
-  }
+  // componentDidMount() {
+  //   fetch("/api/")
+  //     .then(res => res.json())
+  //     .then(({ recipes }) => {
+  //       const { recipes, recipeById } = this.formatRecipes(recipes);
+  //       return this.setState({
+  //         recipes, 
+  //         recipeById,
+  //       })
+  //     })
+  //     .then(recipes => {
+  //       if (!Array.isArray(recipes)) recipes = [];
+  //       return this.setState({
+  //         recipes: recipes
+  //       });
+  //     });
+  // }
 
   handleClick(recipe) {
     this.setState({
@@ -38,6 +47,13 @@ class App extends Component {
     this.setState({
       recipe_selected: false
     });
+  }
+
+  updateRecipe(id, recipe) {
+    const recipeById = JSON.parase(JSON.stringify(this.state.recipeById));
+    recipeById[id] = recipe;
+    this.setState({ recipeById });
+    return true;
   }
 
   //use arrow funtions for methods so you dont need to bind

@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "category_id": null,
+    "name": "Cap'n Crunch Popcorn Chicken",
+    "instructions": "1. Coarsely grind or crush the two cereals and set aside.\n2. Beat the egg with milk and set aside.\n3. Stir together the flour, onion and garlic powders and black pepper. Set aside\n4. Dip the chicken: pieces in the seasoned flour. Move around to coat well, then shake off the excess flour.\n5. Dip in the egg wash, coating well, then dip in the cereal mixture, coating well.\n6. Heat oil in a large heavy skillet to 325.\n7. Drop coated chicken tenders carefully in the hot oil and cook until golden brown and fully cooked, 3 to 5 minutes depending on size.\n8. Drain and serve immediately with creole mustard sauce.\n",
+    "cook_time": 547,
+    "img_url": "https://www.thespruceeats.com/thmb/4QUIYqDCxzubLJmYFDwgr9GgBBk=/1333x1000/smart/filters:no_upscale()/terris-crispy-fried-chicken-legs-3056879-10_preview-5b05ec40a474be00362260d7.jpeg"
+  },
+  {
+    "id": 2,
+    "category_id": null,
+    "name": "Pineapple Curry Bear",
+    "instructions": "Step 1\nBring rice and water to a boil in a pot. Reduce heat to low, cover, and simmer 25 minutes.\n\nStep 2\nIn a bowl, whisk together curry paste and 1 can coconut milk. Transfer to a wok, and mix in remaining coconut milk, chicken, fish sauce, sugar, and bamboo shoots. Bring to a boil, and cook 15 minutes, until chicken juices run clear.\n\nStep 3\nMix the red bell pepper, green bell pepper, and onion into the wok. Continue cooking 10 minutes, until chicken juices run clear and peppers are tender. Remove from heat, and stir in pineapple. Serve over the cooked rice",
+    "cook_time": 590,
+    "img_url": "./client/assets/images/currybear.png"
+  },
+  {
+    "id": 3,
+    "category_id": null,
+    "name": "Chicken Parmasian Lasagna",
+    "instructions": "1. Cut chicken breasts in half (pound thin if necessary) and season with salt and pepper.\n2.Add the flour, 4 eggs, and bread crumbs to 3 separate shallow dishes. Beat the eggs. Coat the chicken in the flour, then the eggs, and finally in the bread crumbs.\n3. Heat the vegetable oil in a cast iron skillet over medium heat. Fry the chicken on both sides until golden brown, about 4 minutes on each side. Let drain on paper towels.\n4. In a medium bowl, combine the ricotta cheese and the remaining egg.\n5. Preheat the oven to 350°F (180°C).\n6. Spread about ? of the marinara sauce over the bottom of a casserole dish. Top with 4 lasagna noodles, ½ of the ricotta mixture, and 3 chicken cutlets. Sprinkle with ½ cup of mozzarella and ½ cup of Parmesan cheese. Repeat to make another layer, then finish with the remaining sauce and mozzarella and Parmesan cheeses.\n7. Cover with foil and bake for 45-60 minutes, uncovering the lasagna for the last 10 minutes of baking.\n8. Serve with a sprinkle of fresh basil.",
+    "cook_time": 750,
+    "img_url": null
+  },
+  {
+    "id": 4,
+    "category_id": null,
+    "name": "Pork Adobo",
+    "instructions": "1. Combine the pork belly, soy sauce, and garlic then marinade for at least 1 hour\n2. Heat the pot and put-in the marinated pork belly then cook for a few minutes\n3. Pour remaining marinade including garlic.\n4. Add water, whole pepper corn, and dried bay leaves then bring to a boil. Simmer for 40 minutes to 1 hour\n5. Put-in the vinegar and simmer for 12 to 15 minutes\n6. Add salt to taste",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 5,
+    "category_id": null,
+    "name": "Kimchi Stew",
+    "instructions": "1. Put the anchovies, daikon, green onion roots, and dried kelp in a sauce pan. Add the water and boil for 20 minutes over medium high heat. Lower the heat to low for another 5 minutes. Strain\n2. Slice 2 green onions diagonally and add them to the pot.\n3. Add salt, sugar, hot pepper flakes, and hot pepper paste. Drizzle sesame oil over top and add the anchovy stock\n4. Cover and cook for 10 minutes over medium high heat.\n5. Open and mix in the seasonings with a spoon. Lay the tofu over top.\n6. Cover and cook another 10 to 15 minutes over medium heat.\n7. Chop 1 green onion and put it on the top of the stew. Remove from the heat and serve right away with rice.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 6,
+    "category_id": null,
+    "name": "Ramen Burger",
+    "instructions": "1. Make ramen \"buns\": In a large pot of salted boiling water, cook ramen according to package instructions. Drain and rinse noodles with cold water.\n2. In a large bowl, toss noodles with eggs until evenly coated. Season with salt and pepper.\n3. In a large nonstick pan over medium heat, pour enough vegetable oil to thinly coat the bottom of the pan. Place the rings of 4 mason jar lids in the pan. Using tongs, fill each ring with the noodle mixture, then press down on each to make the noodles more compact. Cook until golden, about 4 minutes per side. Repeat, then wipe pan clean.\n4. Make burgers: In a large bowl, combine ground beef, jalapeño, onion, green onion and garlic powder. Mix until just combined. Form the mixture into 4 patties, then season both sides of each patty with salt and pepper.\n5. Return pan to medium-high heat and pour a thin layer of oil to coat the bottom of the pan. When the oil is hot, add the beef patties. Cook until the meat is cooked to your liking, about 4 minutes per side for medium. For the last minute of cooking, top each patty with a slice of cheese. Cover the pan with a tight-fitting lid and cook until the cheese is melted, about 1 minute.\n6. Assemble burgers: Top 4 of the ramen buns with lettuce, tomato slices, and burger patties. Drizzle with Sriracha, if desired, then top with remaining ramen buns.\n",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 7,
+    "category_id": null,
+    "name": "Hotpot",
+    "instructions": "1. For the broth, heat oil in 6-quart stockpot over medium-high heat. Add onion; cook and stir until tender, about 3 minutes. 2. Stir in stock, curry paste, soy sauce, brown sugar, garlic powder and ginger. Bring to boil. Reduce heat to low; cover and simmer 20 minutes. Stir lime juice into broth just before serving.\n3. Place proteins, vegetables, noodles, and garnishes in bowls or on plates for guests to customize their meal.\n4. To serve, pour broth into one or both sides of the hot pot, depending upon whether you're offering one broth or two different broths. Cook the vegetables and proteins in the broth and ladle over noodles or rice.",
+    "cook_time": null,
+    "img_url": "./client/assets/images/hotpot.png"
+  },
+  {
+    "id": 8,
+    "category_id": null,
+    "name": "Shrimp Po Boy",
+    "instructions": "1. In a medium bowl, toss the shrimp in the buttermilk, 2 tablespoons of the hot sauce and ½ tablespoon of the salt. Cover with plastic wrap and refrigerate for 1 hour.\n\n2. Meanwhile, in another medium bowl, whisk together the remaining ½ tablespoon of salt with the flour, cornmeal, cayenne, oregano, thyme, garlic powder and pepper, and set aside.\n\n3. In a small bowl, whisk together the remaining 2 tablespoons of the hot sauce with the mayonnaise until smooth, and set aside.\n\n4. In a medium Dutch oven, heat 2 inches of oil to 350° and line a plate with paper towels. Drain the shrimp well before tossing them in the flour mixture to coat well.\n\n5. Working in batches, fry the shrimp until golden brown and cooked through, 1 minute. Using a metal spider, transfer the shrimp to the prepared plate to drain, immediately seasoning with salt. Let the oil return to temperature between batches.\n\n6. Spread the mayonnaise mixture on both halves of the rolls. On the bottom halves, divide the fried shrimp, top with the sliced tomatoes, shredded lettuce and sliced cornichons. Affix the top halves, then slice in half and serve.",
+    "cook_time": null,
+    "img_url": "./client/assets/images/shrimppoboy.png"
+  },
+  {
+    "id": 9,
+    "category_id": null,
+    "name": "Nachos",
+    "instructions": "1. Preheat oven to 425º and line a large baking sheet with foil. In a large skillet over medium heat, heat oil. Add onion and cook until soft, 5 minutes, then add ground beef and cook until no longer pink, 6 minutes more. Drain fat.\n2. Add garlic and taco seasoning and season with salt. Cook until meat is well browned and slightly crispy, 5 minutes more. .3. Add refried beans and water to skillet and stir until combined. \n4. Add half the tortilla chips and top with beef-bean mixture, half the cheese, half the black beans, and half the pickled jalapeños. Repeat one more layer.\n5. Bake until cheese is melty, 15 minutes.\n6. Scatter with tomato, avocado, and green onions. Drizzle with sour cream and hot sauce and devour.\n",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 10,
+    "category_id": null,
+    "name": "Hawaiian Baked Salmon ",
+    "instructions": "Place filet in a large baking pan. Layer lup chong and onions over filet; cover with mayonnaise and sprinkle with cheese. Cover with foil and bake in electric oven at 375°F for 45 minutes. Remove foil, increase oven temperature to 400°F, and continue cooking for 15 minutes or until top is brown. Makes 8 to 10 servings.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 11,
+    "category_id": null,
+    "name": "Juicy Thanksgiving Turkey with Bacon",
+    "instructions": "1. Preheat the oven to 220°C/Gas 7/425ºF. Meanwhile, prepare the herb butter. Put the butter into a large bowl and season with salt and pepper. Add the olive oil and mix well. Add the lemon zest and juice, crushed garlic and chopped parsley. Mix well to combine.\n2. Remove the giblets from the turkey cavity. Season the cavity well with salt and pepper, then stuff with the onions, lemon, garlic halves and 2 bay leaves.\n3. With your hands, loosen the skin on the breast from both ends of the bird so that you will be able to stuff the flavoured butter underneath it, making sure you keep the skin intact. Repeat with the skin on the legs ? from the lower side of the breast feel your way under the skin and out towards the leg, loosening the gap.\n4. Stuff half the butter mix into the opened spaces under the skin. From the outside of the skin, gently massage the butter around the breasts so that the meat is evenly covered. Finally, insert the rest of the bay leaves under the skin of the breasts.\n5. Place the bird in a large roasting tray, breast side up. Spread the rest of the butter all over the skin. Season well with salt and pepper, then drizzle with a little olive oil. (If preparing a day ahead, cover the turkey with foil and refrigerate at this stage.)\n6. Roast the turkey in the hot oven for 10?15 minutes. Take the tray out of the oven, baste the bird with the pan juices and lay the bacon rashers over the breast to keep it moist. Baste again. Lower the setting to 180°C/Gas 4/350ºF and cook for about 2½ hours (calculating at 30 minutes per kg), basting occasionally.\n7. To test whether your turkey is cooked, insert a skewer into the thickest part of the leg and check that the juices are running clear, rather than pink. As oven temperatures and turkey shapes and sizes vary, it is crucial to check your turkey about 30 minutes before the calculated roasting time. If the juices are pink, roast for another 15 minutes and check again. Repeat as necessary until the turkey is cooked.\n8. Transfer the turkey to a warmed platter and remove the parson?s nose, wings and tips of the drumsticks; reserve these for the gravy. Leave the turkey to rest in a warm place for at least 45 minutes; make the gravy in the meantime. Remove the bay leaves from under the skin before carving. Serve the turkey with the piping hot gravy, stuffing and accompaniments.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 12,
+    "category_id": null,
+    "name": "TomYum Soup",
+    "instructions": "1. In a medium pot, heat the coconut oil over medium heat. Add the onion, garlic, chile, galangal or ginger, lemongrass, and red curry paste and cook, stirring frequently, for 5 minutes, or until onions are softened. \n\n2. Add chicken broth and bring to a boil. Reduce head and simmer uncovered for 30 minutes.\n\n3. Add in coconut cream or milk, chicken breast (or tofu or shrimp), and mushrooms. Simmer until chicken breast pieces are just cooked through, then add fish sauce, coconut aminos, and lime juice, plus more of each to taste. \n\n4. Cook 2 minutes, then ladle into serving bowls and top with sliced green onions and fresh cilantro.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 13,
+    "category_id": null,
+    "name": "Spicy Korean Tofu Soup",
+    "instructions": "1.Put the cooking oil, chilli powder, garlic and soy sauce into a pot. Heat the pot on the stove on medium heat and stir the spices well for 1 min. Make sure not to burn the chilli powder.\n\n2. Add the clams and shrimps and stir quickly to coat them with the chilli sauce.\n\n3. Add the dried kelp and anchovy stock and boil it on medium to medium-high heat until it starts to boil rapidly (2 to 3 mins). Add the salt and stir.\n\n4. Add the tofu, in big chunks, mushrooms, and egg and cook them for another 1 to 2 mins.\n\n5. Top up with the green onion, black pepper and sesame oil. Serve hot with Korean steamed rice and side dishes (banchan).\n\n",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 14,
+    "category_id": null,
+    "name": "Rice Cake Dumpling Soup (New Years Soup)",
+    "instructions": "1. Put the water in a heavy pot, cover, and bring it to a vigorous boil over high heat for 12 to 15 minutes.\n2. Add the beef and garlic and lower the heat to medium. Cover and let it boil for 20 to 25 minutes more, until you get a delicious broth.\n3. Roast both sides of a sheet of gim until it?s bright green and very crispy. Put it in a plastic bag and crush it by hand. Set aside.\n4. Separate the egg yolks from the whites of two eggs, putting yolks and whites into separate bowls. Add pinch of salt to each and mix with a fork. Remove the stringy chalaza from the yolks.\n5. Add the cooking oil to a heated non-stick pan. Swirl the oil around so it covers the pan, and then wipe off the excess with a kitchen towel, leaving a thin oily layer on the pan.\n6. Turn off the heat. Pour the egg yolk mixture into the pan and tilt it so it spreads evenly and thinly. Let it cook on the hot pan for about 1 minute. Flip it over and let it sit on the pan for another minute, then take it off, slice it into thin strips and set it aside.\n7. Add the rice cake to the boiling soup along with fish sauce, salt, and sliced green onion. Stir it with a ladle. Cover and let it cook for 7 to 8 minutes until all the rice cakes are floating. Pour the salted egg whites into the boiling soup and let it cook for a minute.\n8. Add sesame oil, ground black pepper, and chopped green onion. Stir it well. Remove it from the heat and ladle the rice cake soup into indivudual serving bowls. Garnish with chopped green onion, yellow egg strips, crushed seaweed, and red pepper if you want.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 15,
+    "category_id": null,
+    "name": "Borscht",
+    "instructions": "1. Peel, grate and/or slice all vegetables, keeping sliced potatoes in cold water until ready to use.\n\n2. Heat a large soup pot (5 1/2 Qt or larger) over medium/high heat and add 2 Tbsp olive oil. Add grated beets and sauté 10 minutes, stirring occasionally until beets are softened. \n\n3. Add 4 cups broth and 6 cups water. Add sliced potatoes and sliced carrots then cook for 10-15 minutes or until easily pierced with a fork.\n\n4. While potatoes are cooking, place a large skillet over medium/high heat and add 2 Tbsp oil. Add chopped onion, celery and bell pepper. Saute stirring occasionally until softened and lightly golden (7-8 minutes). Add 4 Tbsp Ketchup and stir fry 30 seconds then transfer to the soup pot to continue cooking with the potatoes.\n\n5. When potatoes and carrots reach desired softness, add 1 can of beans with their juice, 2 bay leaves, 2-3 Tbsp white vinegar, 1 tsp salt, 1/4 tsp black pepper, 1 pressed garlic clove, and 3 Tbsp chopped dill. Simmer for an additional 2-3 minutes and add more salt and vinegar to taste.\n",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 16,
+    "category_id": null,
+    "name": "Sushi Nigiri Night",
+    "instructions": "1. Place the rice into a mixing bowl and cover with cool water. Swirl the rice in the water with your hand, pour off and repeat 2-3 times or until the water is clear. Rinse a few more times.\n2. After the rice is rinsed, let the rice drain in a colander or strainer for 1 hour.\n3. After the rice has drained, put the rice in the rice cooker with the 3 cups of water, cover, and start.\n4. If you don't have a rice cooker place rice and water in a heavy saucepan over medium-high heat; bring just to a boil, reduce heat to low and simmer, covered, for 15 minutes. Turn off heat and let rice rest, covered, for 15 additional minutes.\n5. While rice is cooking, prepare the vinegar mixture. In a small saucepan over medium heat, combine rice vinegar, sugar, and salt. Heat mixture just until the sugar dissolves (do not let it boil). Remove from heat and let cool to room temperature.\n6. When the rice is done cooking, gently spread out the rice over a cookie sheet. Evenly distribute the cooled vinegar mixture over the rice. Gently turn rice over from time to time with rice paddle or wooden spatula so that rice cools evenly.\n",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 17,
+    "category_id": null,
+    "name": "Best Waffles Ever",
+    "instructions": "Step 1    \nPreheat the oven to 200°. In a medium bowl, combine the flour, cornstarch, salt, baking powder and baking soda. In a glass measuring cup, blend the buttermilk, vegetable oil and milk. Beat in the egg yolk.\n\nStep 2    \nIn a medium bowl, beat the egg white to soft peaks. Add the sugar and beat until firm and glossy. Beat in the vanilla.\n\nStep 3    \nPour the liquid ingredients into the dry ingredients and whisk until just blended. Using a rubber spatula, gently fold in the beaten egg white until just incorporated.\n\nStep 4    \nPreheat an 8-inch square waffle iron and oil it lightly. Pour about 1 1/2 cups of the waffle batter into the preheated waffle iron and gently smooth the surface with a spatula. Bake for 4 minutes, or until browned and crisp. Transfer the waffles to the oven rack to keep warm and repeat with the remaining batter. Serve at once with maple syrup.",
+    "cook_time": null,
+    "img_url": "./client/assets/images/waffles.png"
+  },
+  {
+    "id": 18,
+    "category_id": null,
+    "name": "Oxtail Pho",
+    "instructions": "1. Toast your ginger and onions in the oven on broil until the onions are sweaty everything is nicely charred. Peel the ginger and onions and set aside until you?re ready to start your broth.\n\n2. Toast the coriander seeds, cloves, and star anise in a dry pan on low heat until they are aromatic, about 2-3 minutes. Tie the spices up in cheesecloth for easy removal from your soup.\n\n3. Put your oxtail pieces in a large pot with cold water and bring to a hard boil for 5-10 minutes to force the scum and impurities out. Drain, rinse the oxtails and wash your pot.\n\n4. Fill your clean pot with about 5 quarts of water and add the oxtail, ginger, onions, spice packet, cinnamon stick, carrots, and daikon. Bring to a boil and lower to a very gentle simmer, uncovered. Simmer for as long as you can; reducing it will intensify the flavour. I let my broth simmer for about 4 hours until the water reduced to 3 quarts. At this point take out the oxtails and set aside. Remove everything else from the stock and discard. Strain the stock into a new clean pot and cool before putting in the fridge overnight.\n\n5. Remove the meat from the oxtails and discard the bones. Shred the meat, cover and put in the fridge for the next day.\n\n6. The next day a large amount of fat will have coagulated on the top of your stock. Skim and discard. Gently heat the stock up and season with fish sauce and sugar. Add the sugar and fish sauce in increments until you?re happy with the flavour. Bring the stock to a roiling boil.\n\n7. Prepare your noodles according to the package, strain and place in a large bowl. Add a generous amount of oxtail meat (the stock will heat the meat up), top with broth, and garnishes. Enjoy!",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 19,
+    "category_id": null,
+    "name": "Japanese Fluffy Airy Pancakes",
+    "instructions": "1. Mix together the egg yolks, sugar, milk, and pancake mix in a very large bowl until it is smooth with no large lumps.\nIn another large bowl, beat the egg whites with a hand mixer until stiff peaks form when lifted.\n2. Carefully fold the egg whites into the pancake batter, until just incorporated, making sure not to deflate the batter.\n3. Grease two 3.5-inch (9 cm) metal ring moulds and set them in the middle of a pan over the lowest heat possible.\n4. Fill the moulds about ¾ of the way full with the batter, then cover the pan and cook for about 10 minutes, until the center of the pancakes are slightly jiggly.\n5. Release the pancakes from the bottom of the pan with a spatula, then carefully flip them over, making sure not to spill any batter inside.\n6. Cover and cook for another 5 minutes, then serve with butter, syrup, and berries!\n",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 20,
+    "category_id": null,
+    "name": "Curried Lentil & Basil",
+    "instructions": "1. Heat oil in a medium saucepan over medium. \n2. Cook onion, stirring often, until softened and golden brown, 8?10 minutes. Add garlic, ginger, curry powder, and red pepper flakes and cook, stirring, until fragrant, about 2 minutes. \n3. Add lentils and cook, stirring, 1 minute. Add tomatoes, ½ cup cilantro, a generous pinch of salt, and 2½ cups water; season with pepper. \n4. Set aside ¼ cup coconut milk for serving and add remaining coconut milk to saucepan. Bring mixture to a boil; reduce heat and simmer gently, stirring occasionally, until lentils are soft but not mushy, 20?25 minutes. Season soup with more salt and pepper if needed.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 21,
+    "category_id": null,
+    "name": "Hawaiian Butter Garlic Shrimp",
+    "instructions": "1. In a medium skillet on medium low heat, add 4 Tablespoons olive oil, 2 Tablespoons butter, and minced raw garlic. Saute the garlic until it is brown, tender and caramelized.\n2. Add the salt, pepper, paprika, remaining butter, 1 T olive oil, and juice of one lemon. See notes. Let the sauce develop and carefully add the shrimp in one layer in the pan.\n3. Shrimp cook quickly and only take about 3-5 minutes on each side. Once the shells have turned a lovely pink orangeish color, it is time to flip them. Do not overcook them or they will be rubbery and tough.\n4. Serve the shrimp with rice and to get the full Hawaii effect, use the leftover garlic sauce to serve on top of the rice. ",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 22,
+    "category_id": null,
+    "name": "Thai/Laos Tapioca Balls",
+    "instructions": "1. Rinse the tapioca balls 3 times in warm water and let it sit for about 25 minutes so most of the water gets drained.\n2. Put the tapioca in a bowl and start kneading it like dough; cover and put it off to the side.\n3. Heat a pan with the oil on high; add the garlic and shallots and fry until lightly golden. Add in the minced pork in and cook until all the fat is rendered. Take the pork out of the pan.\n4. With the heat now on medium, add the sugar to the fat in the pan and, without stirring, allow it to caramelize to a light golden color. Add all the ingredients back in, including the turnips, peanuts, fish sauce, black pepper, and MSG, cooking on medium low heat for about 5 minutes until the mixture solidifies.\n5. Let the pork cool and then form spoonful balls. Take the tapioca dough and create a dumpling wrap and put the pork balls inside it.\n6. Prepare your steam basket and steam each dumpling for about 10 minutes.\n7. Garnish with toppings",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 23,
+    "category_id": null,
+    "name": "Rose Dumplings",
+    "instructions": "1. Place the first 10 ingredients in a food processor; cover and process until finely chopped.\n2. Place 2 teaspoons pork mixture in the center of a wonton wrapper. (Keep remaining wrappers covered with a damp paper towel until ready to use.) Moisten edges with water. Bring corners of wonton wrapper over filling and twist to form a bundle; pinch edges to seal. Repeat.\n3. Line a steamer basket with three lettuce leaves. Arrange a fourth of the dumplings 1 in. apart over lettuce; place in a large saucepan over 1 in. of water. Bring to a boil; cover and steam for 10-12 minutes or until a thermometer reads 160°. Discard lettuce. Repeat.\n4. Combine the sauce ingredients; serve with hot dumplings.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 24,
+    "category_id": null,
+    "name": "Ratatouille",
+    "instructions": "1. Preheat the oven for 375F (190C).\n2. Slice the eggplant, tomatoes, squash, and zucchini then set aside.\n3. Make the sauce: Heat the olive oil in a 12-inch (30-cm) oven-safe pan over medium-high heat. Sauté the onion, garlic, and bell peppers until soft, about 10 minutes. Season with salt and pepper, then add the crushed tomatoes. Stir until the ingredients are fully incorporated. Remove from heat, then add the basil. Stir once more, then smooth the surface of the sauce with a spatula.\n4. Arrange the sliced veggies in alternating patterns, (for example, eggplant, tomato, squash, zucchini) on top of the sauce from the outer edge to the middle of the pan. Season with salt and pepper.\n5. Make the herb seasoning: In a small bowl, mix together the basil, garlic, parsley, thyme, salt, pepper, and olive oil. Spoon the herb seasoning over the vegetables.\n6. Cover the pan with foil and bake for 40 minutes. Uncover, then bake for another 20 minutes, until the vegetables are softened.\n7. Serve while hot as a main dish or side. The ratatouille is also excellent the next day--cover with foil and reheat in a 350?F (180C) oven for 15 minutes, or simply microwave to desired temperature.",
+    "cook_time": null,
+    "img_url": null
+  },
+  {
+    "id": 25,
+    "category_id": null,
+    "name": "Burrata Sandwich",
+    "instructions": "1. Working in batches, cook pancetta in heavy large skillet over medium heat until brown and crisp, about 6 minutes per batch. Transfer to paper towels to drain. DO AHEAD Can be made 2 hours ahead. Let stand at room temperature.\n2. Place tomato slices in shallow baking dish. Add basil, olive oil, oregano, and fleur de sel. Sprinkle with ground black pepper and turn to coat. Let stand at least 30 minutes and up to 1 hour.\n3. Place 6 toasted bread slices on work surface. Divide burrata among bread slices and spread to edges. \n4. Top each with 1 tomato slice, then pancetta slices, dividing equally. Top with arugula. Cover with remaining 6 toasted bread slices, and press each slightly to adhere. Cut each sandwich in half and serve.",
+    "cook_time": null,
+    "img_url": null
+  }
+]
